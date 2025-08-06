@@ -7,7 +7,7 @@ export function banner(){
     span.textContent = "Geeta";
     div.appendChild(span);
 
-    let aBoton = document.createElement('div');
+    let aBoton = document.createElement('a');
     aBoton.href = "pages/login/login.html";
     aBoton.className = "a-boton";
     aBoton.textContent = "SHOP NOW";
