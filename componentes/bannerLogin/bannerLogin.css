@@ -1,0 +1,131 @@
+.bannerLogin {
+ width: 100%;
+ height: 100vh;
+ background-image: url('../../assets/fonts/Login.png');
+ background-size: cover;
+ background-position: top;
+ position: relative;
+ padding-left: 2rem;
+ padding-top: 2rem;
+ box-sizing: border-box;
+}
+
+
+.texto0, .txt2, .txt3, .txt4, .txt5, .boton_1, .txt6, .boton_2, .txt7, .boton_3, .txt8, .img1, .img2, .img3{
+ position: absolute;
+ left: 4rem;
+}
+
+
+.texto0 {
+ top: 5rem;
+ font-size: 2rem;
+ color: white;
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.txt2 {
+ top: 15rem;
+ font-size: 2.5rem;
+ color: white;
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.txt3 {
+ top: 20rem;
+ font-size: 1.3rem;
+ white-space: pre-line;
+ color: white;
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.txt4 {
+ top: 35rem;
+ font-size: 2rem;
+ color: white;
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight: bold;
+}
+.txt5{
+    top: 45rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.boton_1{
+    top: 48.5rem;
+    width: 33rem;
+    height: 5rem;
+    color: gray;
+    border: 1px solid #6342E8;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-right: 14rem;
+}
+.img1{
+    top: 50rem;
+    padding-left: 2rem;
+}
+.img2{
+    top: 50rem;
+    padding-left: 280px;
+}
+.txt6{
+    top: 56rem;
+    font-weight: bold;
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.boton_2{
+    top: 59.5rem;
+    width: 33rem;
+    height: 5rem;
+    color: gray;
+    border: 1px solid gray;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-right: 10rem;
+}
+.img3{
+    top: 61rem;
+    padding-left: 2rem;
+}
+.txt7{
+    top: 67rem;
+    font-size: 1.3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 22rem;
+    color: #6342E8;
+}
+.boton_3{
+    top: 70rem;
+    width: 33rem;
+    height: 5rem;
+    color: white;
+    background-color: #6342E8;
+    border: 1px solid gray;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.txt8{
+    top: 76.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3rem;
+    padding-left: 5rem;
+    color: gray;
+}
+.morado{
+    color: #6342E8;
+}

@@ -105,3 +105,7 @@
     position: absolute;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.ocultar{
+    display: none;
+}
