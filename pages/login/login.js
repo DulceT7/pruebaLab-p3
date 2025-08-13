@@ -24,10 +24,12 @@ export function login(){
     boton1.className = "boton1"
     boton1.textContent = "LOG IN"
     div.appendChild(boton1);
-
+        
     boton1.addEventListener('click',()=>{
+
         div.classList.add ("ocultar");
         document.body.appendChild(bannerLogin());
+
     });
 
 
